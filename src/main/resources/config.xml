@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <property name="driverClassName" >com.mysql.jdbc.Driver</property>
+    <property name="url" >jdbc:mysql://118.178.182.6:3306/saichang?useUnicode=true&amp;characterEncoding=utf8</property>
+    <property name="username" >saichang</property>
+    <property name="password" >saichang1234</property>
+</database>
